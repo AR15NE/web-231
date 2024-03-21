@@ -3,8 +3,8 @@
     Chapter case
 
     Tinley Xeriscapes
-    Author: 
-    Date:   
+    Author: Amanda Rovey
+    Date: March 20th 2024   
 
     Filename: js01b.js
 */
